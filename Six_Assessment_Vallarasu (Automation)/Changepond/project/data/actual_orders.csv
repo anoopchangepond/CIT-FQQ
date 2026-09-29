@@ -1,0 +1,3 @@
+order_id, customer_id, total_amount, currency, status, processed_at, country_code
+1, C001, 100.50, GBP, PAID, 2026-05-20, GB
+2, C002, 40.00, GBP, PENDING, 2026-05-20, GB
